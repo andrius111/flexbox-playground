@@ -1,0 +1,8 @@
+@import '../../base.css';
+
+.container {
+  display: flex;
+  border: 5px solid white;
+  width: 500px;
+  flex-flow: row wrap; /* <flex-direction> <flex-wrap> */
+}

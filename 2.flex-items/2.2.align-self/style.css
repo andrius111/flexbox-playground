@@ -1,0 +1,13 @@
+@import '../../base.css';
+
+.container {
+  display: flex;
+  align-items: flex-start;
+  border: 5px solid white;
+  height: 350px;
+  width: 500px;
+}
+
+.container div:nth-child(3) {
+  align-self: flex-end;
+}

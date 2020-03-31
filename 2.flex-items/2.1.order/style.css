@@ -1,0 +1,14 @@
+@import '../../base.css';
+
+.container {
+  display: flex;
+}
+
+.container div:nth-child(2) {
+  order: 1;
+  /*
+    O valor padrão é 0, ou seja, quando setado 1 por exemplo, irá para 
+    o último lugar, visto que todos demais são 0.
+    Também aceita números negativos
+  */
+}

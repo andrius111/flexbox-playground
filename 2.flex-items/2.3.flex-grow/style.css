@@ -1,0 +1,33 @@
+@import '../../base.css';
+
+.container {
+  display: flex;
+  border: 5px solid white;
+  width: 800px;
+}
+
+.container div {
+  margin: 0;
+  padding: 20px 0;
+  width: 100px;
+  flex-grow: 1;
+  /*
+    O padrão é sempre 0, ou seja, 
+    não irá aumentar o tamanho dos itens para preencher o container
+
+    O 1, signifca que todos itens receberão uma fração, ex.: caso tenha 4 itens de 100px
+    e um container de 800px, irão sobrar 400px, como cada item recebe uma fração (4x1 = 4)
+    então pega os 400 que sobrou e divide por 4 (400 / 4 = 100), e coloca os 100 para cada item
+  */
+}
+
+.container div:nth-child(2) {
+  flex-grow: 2;
+  /*
+    Aqui estamos dizendo que o segundo item receberá 2 frações, ou seja, 
+    2 + 3 (dos demais itens que recebem 1 fração) = total de 5 frações
+    Pegando os 400px que sobraram fica: 400 / 5 = 80
+
+    O item 2 receberá 160px (80 x 2), já os demais receberão 80px (80 x 1)
+  */
+}

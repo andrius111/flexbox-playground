@@ -1,0 +1,16 @@
+@import '../../base.css';
+
+.container {
+  display: flex;
+  border: 5px solid #fff;
+  height: 300px;
+  align-items: center;
+}
+
+.container div:nth-child(2) {
+  font-size: 3rem;
+}
+
+.container div:nth-child(4) {
+  font-size: 6rem;
+}

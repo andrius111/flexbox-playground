@@ -1,0 +1,16 @@
+@import '../../base.css';
+
+.container {
+  display: flex;
+  border: 5px solid white;
+  width: 800px;
+}
+
+.container div {
+  margin: 0;
+  padding: 200px 0;
+  flex-basis: 100px;
+  /* 
+    flex-basis é a forma correta de se setar o tamanho de item
+  */
+}

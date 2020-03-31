@@ -1,0 +1,11 @@
+@import '../../base.css';
+
+.container {
+  display: flex;
+  width: 500px;
+  height: 300px;
+  border: 5px solid white;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  align-content: center;
+}

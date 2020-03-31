@@ -1,0 +1,12 @@
+@import '../../base.css';
+
+.container {
+  display: flex;
+  border: 5px solid white;
+  width: 500px;
+  flex-wrap: wrap;
+  /*
+    flex-wrap: nowrap; --DEFAULT
+    flex-wrap: wrap-reverse;
+  */
+}

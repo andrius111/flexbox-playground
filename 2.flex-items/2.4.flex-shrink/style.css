@@ -1,0 +1,25 @@
+@import '../../base.css';
+
+.container {
+  display: flex;
+  border: 5px solid white;
+  width: 400px;
+}
+
+.container div {
+  margin: 0;
+  padding: 0 0;
+  width: 150px;
+  flex-shrink: 1;
+  /*
+    O padrão é sempre 1, ou seja, os itens são permitidos de encolher
+  */
+}
+
+.container div:nth-child(2) {
+  flex-shrink: 2;
+  /*
+    As regras de porções, são as mesmas do flex-grow, porém ao invés de aumentar,
+    é diminuido
+  */
+}
