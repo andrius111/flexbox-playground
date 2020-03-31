@@ -9,4 +9,4 @@
 ```
 
 ### Example 
-[1.1.flex-container](1.flex-containers/1.1.flex-container/style.css)
+[1.1.flex-container](style.css)

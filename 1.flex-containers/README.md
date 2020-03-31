@@ -1,6 +1,6 @@
 # 1. Flex Containers
 
-### [1.1 flex-container](1.1/flex-container/)
+### [1.1 flex-container](1.1.flex-container/)
 
 ### [1.2 flex-direction](1.2.flex-direction/)
 
