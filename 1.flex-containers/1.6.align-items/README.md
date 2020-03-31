@@ -10,4 +10,4 @@
 ```
 
 ### Example 
-[codepen](https://codepen.io/pen?template=ZEGPEgN)
+[codepen](https://codepen.io/andrius111/pen/gOpEbav)
