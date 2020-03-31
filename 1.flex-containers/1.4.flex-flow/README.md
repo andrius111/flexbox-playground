@@ -10,4 +10,4 @@
 ```
 
 ### Example 
-[style.css](style.css)
+[codpen](https://codepen.io/andrius111/pen/jOPJEPX)
