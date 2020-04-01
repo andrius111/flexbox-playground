@@ -1,5 +1,7 @@
 # Flexbox study repository
 
-### [1.1 Flex Containers](1.flex-containers/)
+### [1 Flex Containers](1.flex-containers/)
 
-### [1.2 Flex Items](2.flex-items/)
+### [2 Flex Items](2.flex-items/)
+
+### [3 Examples](3.examples/)
