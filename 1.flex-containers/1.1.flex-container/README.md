@@ -8,5 +8,5 @@
 }
 ```
 
-### Example 
+### Demo 
 [codepen](https://codepen.io/andrius111/pen/abOXXYj)

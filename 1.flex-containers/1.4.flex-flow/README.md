@@ -9,5 +9,5 @@
 }
 ```
 
-### Example 
+### Demo 
 [codpen](https://codepen.io/andrius111/pen/jOPJEPX)
