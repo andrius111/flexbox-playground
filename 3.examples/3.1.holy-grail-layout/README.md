@@ -3,7 +3,7 @@
 ## 3.1 holy-grail-layout
 
 ### Example
-[](../../docs/holy-grail-layout.png)
+![](../../docs/holy-grail-layout.png)
 
 ### Demo 
 [codepen](https://codepen.io/andrius111/pen/xxGBpBd)
